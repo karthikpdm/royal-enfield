@@ -12,3 +12,4 @@ this is my bike
 10. git checkout <tag_name>
 11. git checkout <commit_id>
 12. git branch --> list the branches
+how are you
